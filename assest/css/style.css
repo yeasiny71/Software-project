@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-content{
+    background-image: url(../../img/G5spHr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.first-content h1{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.content-eight-info-content p{
+       padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.content-eight{
+    background-color: #344258;
+    margin-top: 20px;
+}
+
+
+
+.profile_content p{
+     padding-left: 200px;
+}
+
+.profile_content a{
+      padding-left: 200px;
+}
+
+
